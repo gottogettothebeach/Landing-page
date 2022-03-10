@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    height: 100px;
+    width: auto;
+    background-color: #1f2937;
+    border: #1f2937;
+}
+
+section {
+    font-weight: 100px;
+}
